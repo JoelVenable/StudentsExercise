@@ -4,8 +4,8 @@ using System.Text;
 
 namespace Cohort.Models
 {
-    class Exercise
+    public class Exercise
     {
-
+        Languages Language = new Languages();
     }
 }
